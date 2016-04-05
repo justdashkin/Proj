@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'georgia-italic';
+    src: url('../../fonts/georgia-italic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'glyphicons-halflings-regular';
+    src: url('../../fonts/glyphicons-halflings-regular.eot') format('embedded-opentype');
+}
+@font-face {
+    font-family: 'glyphicons-halflings-regular';
+    src: url('../../fonts/glyphicons-halflings-regular.svg') format('svg');
+}
+@font-face {
+    font-family: 'glyphicons-halflings-regular';
+    src: url('../../fonts/glyphicons-halflings-regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'glyphicons-halflings-regular';
+    src: url('../../fonts/glyphicons-halflings-regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'lato-bold';
+    src: url('../../fonts/lato-bold.eot') format('embedded-opentype');
+}
+@font-face {
+    font-family: 'lato-bold';
+    src: url('../../fonts/lato-bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'lato-regular';
+    src: url('../../fonts/lato-regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'lato-regular';
+    src: url('../../fonts/lato-regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'lato-italic';
+    src: url('../../fonts/lato-italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'lato-regular';
+    src: url('../../fonts/lato-regular.eot') format('embedded-opentype');
+}
+@font-face {
+    font-family: 'lato-italic';
+    src: url('../../fonts/lato-italic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'lato-italic';
+    src: url('../../fonts/lato-italic.eot') format('embedded-opentype');
+}
+@font-face {
+    font-family: 'lato-bold';
+    src: url('../../fonts/lato-bold.ttf') format('truetype');
+}
